@@ -24,7 +24,7 @@ function Section({title,description,backgroundImg,leftbtntxt,rightbtntxt}) {
                 }
             </Buttongrp>
             </Fade>
-            <Downarr src="/images/down-arrow.svg"/>
+            {/* <Downarr src="/images/down-arrow.svg"/> */}
         </Buttons>
     </Wrap>
   )
